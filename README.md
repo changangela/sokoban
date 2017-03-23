@@ -20,5 +20,5 @@ Comes equipped with a solver that implements a breadth first search algorithm fo
 $ git clone https://github.com/changangela/sokoban
 $ cd sokoban/sokoban-solver
 $ g++ sokoban-solver.cpp -std=c++11
-$ ./a.out < map<number>.txt
+$ ./a.out < map1.txt
 ```
